@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES General",LA 1 HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2555
-#EXTINF:-1 tvg-id="" tvg-name="TVE LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="ES General",LA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="ES General",LA 2 HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/29244
 #EXTINF:-1 tvg-id="antena.3.es" tvg-name="Antena 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ES General",Antena 3 HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2599
