@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES General|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES-----|Espana|--------------------.png" group-title="ES Ent",ES:-----|ES General|--------------------
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES General|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES-----|Espana|--------------------.png" group-title="ES Gen",ES:-----|ES General|--------------------
 http://kk03es.abcnew.site:8880/12mm630075/24172885/60623
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES Ent",ES049:LA 1 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES Gen",ES049:LA 1 HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2555
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="ES Ent",ES050:LA 2 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="ES Gen",ES050:LA 2 HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2554
-#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES005:Antena 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ES Ent",ES005:Antena 3 HD
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES005:Antena 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ES Gen",ES005:Antena 3 HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2599
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES033:Cuatro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="ES Musica",ES033:Cuatro HD
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES033:Cuatro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="ES Gen",ES033:Cuatro HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2571
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:Telecinco HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="ES Cine",ES068:Telecinco HD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:Telecinco HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="ES Gen",ES068:Telecinco HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2536
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:Telecinco FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Cine",ES160:Telecinco FHD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:Telecinco FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Gen",ES160:Telecinco FHD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/29232
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:Telecinco SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="ES Cine",ES162:Telecinco SD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:Telecinco SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="ES Gen",ES162:Telecinco SD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/29230
-#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:La Sexta HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="ES Ent",ES052:La Sexta HD
+#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:La Sexta HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="ES Gen",ES052:La Sexta HD
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2552
 #EXTINF:-1 tvg-id="" tvg-name="------|Spain|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/------|Spain|------.png" group-title="ES Ent",------|Spain|------
 http://kk03es.abcnew.site:8880/12mm630075/24172885/2604
